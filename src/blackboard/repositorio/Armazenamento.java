@@ -8,7 +8,7 @@ import java.util.HashMap;
  */
 public class Armazenamento {
 
-    HashMap<String, Float> produtos;
+    public HashMap<String, Float> produtos;
 
     public Armazenamento() {
         produtos = new HashMap<String, Float>();
